@@ -1,7 +1,13 @@
-/venv
-/db.sqlite3
-/media/
-/__pycache__/
-/.env
-/.idea/
+# Virtualenv
+venv/
+.env
+
+# Django
+db.sqlite3
+media/
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
 
